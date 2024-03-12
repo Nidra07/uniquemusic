@@ -1,6 +1,6 @@
 <h1 align="center">──「 ˹𝚁𝚞𝚍𝚛𝚊˼ ✘ ˹𝙼𝚞𝚜𝚒𝚌˼ 」──</h1>
 <p align="center">
-  <img src="https://github.com/Nidra07/uniquemusic/tree/main/MukeshRobot/resources/rudra.jpg">
+  <img src="https://github.com/Nidra07/uniquemusic/MukeshRobot/resources/rudra.jpg">
 </p>
 <p align="center">
 <a href="https://github.com/Noob-Mukesh/MukeshRobot/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>

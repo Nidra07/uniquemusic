@@ -1,4 +1,4 @@
-<h1 align="center">ᴍᴜᴋᴇsʜ ʀᴏʙᴏᴛ</h1>
+<h1 align="center">──「 ˹𝚁𝚞𝚍𝚛𝚊˼ ✘ ˹𝙼𝚞𝚜𝚒𝚌˼ 」──</h1>
 <p align="center">
   <img src="https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/resources/mukesh.jpg">
 </p>

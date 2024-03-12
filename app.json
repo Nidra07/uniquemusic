@@ -1,14 +1,14 @@
 {
-    "name": "Mukesh Robot",
+    "name": "──「 ˹𝚁𝚞𝚍𝚛𝚊˼ ✘ ˹𝙼𝚞𝚜𝚒𝚌˼ 」──",
     "description": "Telegram Group Management Bot.",
-    "logo": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg",
+    "logo": "https://telegra.ph/file/d8197c04ca5587f2bb9ac.jpg",
     "keywords": [
        "telegram",
        "modular",
        "group",
        "manager"
     ],   
- "repository": "https://github.com/Noob-Mukesh/MukeshRobot",
+ "repository": "https://github.com/Nidra07/uniquemusic",
  "stack": "heroku-22",
  "addons": [
     {

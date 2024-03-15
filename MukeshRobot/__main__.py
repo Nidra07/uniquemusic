@@ -427,7 +427,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="🏡 sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs 🍷", url=f"\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x2b\x66\x59\x6e\x46\x78\x36\x6e\x48\x4b\x34\x70\x68\x5a\x6a\x59\x39"
+                            text="ᴜᴩᴅᴀᴛᴇs 🍷", url=f"\x68\x74\x74\x70\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x65\x61\x72\x6e\x69\x6e\x67\x5f\x6d\x6f\x64\x65\x6c"
                         ),
                     ],
                     [
@@ -594,7 +594,7 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
                     [
-                        InlineKeyboardButton(text="• Dᴏɴᴀᴛᴇ •", url="https://t.me/+fYnFx6nHK4phZjY9"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", callback_data="mukesh_support")
+                        InlineKeyboardButton(text="• Dᴏɴᴀᴛᴇ •", url="https://t.me/earning_model"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", callback_data="mukesh_support")
                     ]
                 ]
             ),
@@ -1018,7 +1018,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 5935608297:
+        if OWNER_ID != 7042067450:
             update.effective_message.reply_text(
                 f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [ɢɪᴛʜᴜʙ](https://github.com/noob-mukesh/MukeshRobot)"
                 f"\n\nʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]({DONATE_STRING})",
@@ -1070,7 +1070,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ➕",
-                            url="https://t.me/groupcontrollertgbot?startgroup=true"
+                            url="https://t.me/RudraXechoBot?startgroup=true"
                             )
                        ]
                 ]
